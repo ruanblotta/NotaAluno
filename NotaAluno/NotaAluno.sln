@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34407.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotaAluno", "NotaAluno\NotaAluno.csproj", "{DA84E438-B07B-461F-9BAB-0D2F54589829}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA84E438-B07B-461F-9BAB-0D2F54589829}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA84E438-B07B-461F-9BAB-0D2F54589829}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA84E438-B07B-461F-9BAB-0D2F54589829}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA84E438-B07B-461F-9BAB-0D2F54589829}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5B906DEC-657E-4AAC-AF70-FD6A416EA3D5}
+	EndGlobalSection
+EndGlobal
