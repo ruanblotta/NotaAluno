@@ -20,7 +20,6 @@ namespace NotaAluno
             Console.WriteLine("Digite a nota do terceiro trimestre: ");
             calcmedia.Nota3 = double.Parse(Console.ReadLine());
 
-            
             calcmedia.CalcNotaFinal();
             
         }
